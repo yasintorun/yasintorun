@@ -1,6 +1,8 @@
 # __Hi, I'm [Yasin](https://github.com/yasintorun) 👋__
 
-### I am a Computer Engineering student at Ankara University
+- ### Full Stack & Mobile Developer.
+- ### TS, JS, C#, Java, C++, Python
+- ### React, React Native, Next.js, Node.js, .Net 6, Spring Boot
 
 ## __Connect with me__:
 
