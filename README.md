@@ -1,8 +1,19 @@
 # __Hi, I'm [Yasin](https://github.com/yasintorun) 👋__
 
-- ### Full Stack & Mobile Developer.
-- ### TS, JS, C#, Java, C++, Python
-- ### React, React Native, Next.js, Node.js, .Net 6, Spring Boot
+🚀 **Full-Stack Developer | DevOps Enthusiast | Builder**  
+💡 Passionate about open-source, scaling projects, and creating impactful solutions.  
+
+## 🔥 2025: A Year Full of Ambitions  
+
+This year is going to be *insanely busy*, and I couldn't be more excited! Here’s what I’m working on:  
+
+- 🎯 [**KodChallenge**](https://kodchallenge.com) – *An open-source programming platform in Turkish.*  
+- 🚀 [**NextPush**](https://nextpush.center) – *Passive income meets React Native OTA updates.*  
+- 🌍 [**NativeComponents**](https://nativecomponents.com) – *A global, open-source component library.*  
+- 📲 [**Snagom**](https://snagom.com) – *Why not build my own social media platform?*  
+- 🎁 **.dev** – *A surprise project focused on the Turkish dev community. Stay tuned!*  
+
+I guess I won’t be leaving my desk much this year. 😅  
 
 ## __Connect with me__:
 
