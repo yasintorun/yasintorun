@@ -8,7 +8,7 @@
 This year is going to be *insanely busy*, and I couldn't be more excited! Here’s what I’m working on:  
 
 - 🎯 [**KodChallenge**](https://kodchallenge.com) – *An open-source programming platform in Turkish.*  
-- 🚀 [**NextPush**](https://nextpush.center) – *Passive income meets React Native OTA updates.*  
+- 🚀 [**NextPush**](https://nextpush.center) – *Custom CodePush Server. React Native OTA updates.*  
 - 🌍 [**NativeComponents**](https://nativecomponents.com) – *A global, open-source component library.*  
 - 📲 [**Snagom**](https://snagom.com) – *Why not build my own social media platform?*  
 - 🎁 **.dev** – *A surprise project focused on the Turkish dev community. Stay tuned!*  
