@@ -1,34 +1,24 @@
-# __Hi, I'm [Yasin](https://github.com/yasintorun) 👋__
+# Hi, I'm Yasin
 
-🚀 **Full-Stack Developer | DevOps Enthusiast | Builder**  
-💡 Passionate about open-source, scaling projects, and creating impactful solutions.  
+I'm a full-stack developer focused on building practical products, developer tools, and scalable web systems.
 
-## 🔥 2025: A Year Full of Ambitions  
+I mostly work across the full stack: backend services, frontend applications, infrastructure, automation, and product architecture. I enjoy taking an idea from the first technical design to a working product that real users can rely on.
 
-This year is going to be *insanely busy*, and I couldn't be more excited! Here’s what I’m working on:  
+## What I'm working on
 
-- 🚀 [**NextPush**](https://nextpush.center) – *Custom CodePush Server. React Native OTA updates.*  
-- 🎯 [**KodChallenge**](https://kodchallenge.com) – *An open-source programming platform in Turkish.*  
-- 🌍 [**NativeComponents**](https://nativecomponents.com) – *A global, open-source component library.*  
-- 📲 [**Snagom**](https://snagom.com) – *Why not build my own social media platform?*   
-- 📲 [**ImChat**](https://imchat.ai) – *Developer-first chatbot system*  
-- 🎁 **.dev** – *A surprise project focused on the Turkish dev community. Stay tuned!*  
+* **NextPush** — a custom CodePush-compatible server for React Native OTA updates.
+  Built for teams that need a reliable alternative for managing mobile app updates.
 
-I guess I won’t be leaving my desk much this year. 😅  
+* **MasterGate.ai** — a developer-first AI control plane for agents, tools, RAG, usage tracking, and multi-tenant AI workflows.
 
-## __Connect with me__:
+* **OpenTahta** — a personal vision board and planning tool designed to keep goals, projects, and weekly focus visible.
 
-[<img align="left" alt="Yasin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yasintorun/)
+## Areas I care about
 
-<br>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/?username=yasintorun&&show_icons=true&theme=radical)]()
-
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasintorun&count_private=true&theme=radical" alt="yasintorun" />
-
-<br>
-<br>
-<br>
-
-![](https://komarev.com/ghpvc/?username=yasintorun)
+* Building SaaS products from scratch
+* Developer tools and internal platforms
+* React, Next.js, Node.js, TypeScript
+* React Native and mobile infrastructure
+* DevOps, deployment pipelines, monitoring, and scaling
+* AI agents, tool orchestration, and practical automation
+* Clean architecture, maintainability, and product-focused engineering
